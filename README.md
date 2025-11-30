@@ -35,97 +35,114 @@ Click on the arrow to expand advice and risks.
 <details>
 <summary>🍚 Rice</summary>
 - Risks: 🦠 *Bacillus cereus* (spore-forming bacteria survives cooking)  
+   
 - Advice: Eat immediately, avoid leftovers  
 </details>
 
 <details>
 <summary>🥜 Peanuts & Nuts</summary>
 - Risks: ⚠️ Aflatoxins from mold, 🦠 bacteria in cracked nuts  
+   
 - Advice: Prefer whole, intact nuts, store cool & dry  
 </details>
 
 <details>
 <summary>🥬 Leafy Greens</summary>
 - Risks: 🦠 *E. coli*, *Salmonella*  
+   
 - Advice: Wash carefully, eat fresh  
 </details>
 
 <details>
 <summary>🍅 Tomatoes & Sauces</summary>
-- Risks: 🦠 Surface bacteria, spores in stored sauce  
+- Risks: 🦠 Surface bacteria, spores in stored sauce
+
 - Advice: Wash, cook fresh, eat immediately  
 </details>
 
 <details>
 <summary>🍊 Fruits with Peels</summary>
-- Risks: ⚠️ Pesticides, 🦠 bacteria on skin  
+- Risks: ⚠️ Pesticides, 🦠 bacteria on skin
+   
 - Advice: Wash, eat whole if clean, avoid pre-peeled unless very fresh  
 </details>
 
 <details>
 <summary>🥩 Meats</summary>
-- Risks: 🦠 *Listeria*, *Salmonella*, *Clostridium perfringens*  
+- Risks: 🦠 *Listeria*, *Salmonella*, *Clostridium perfringens* 
+   
 - Advice: Cook thoroughly, avoid long storage  
 </details>
 
 <details>
 <summary>🐟 Fish & Seafood</summary>
 - Risks: 🦠 *Vibrio*, parasites  
+   
 - Advice: Cook fresh, avoid raw unless safe source  
 </details>
 
 <details>
 <summary>🥚 Eggs</summary>
 - Risks: 🦠 *Salmonella*  
+   
 - Advice: Cook fully, avoid cracked/old eggs  
 </details>
 
 <details>
 <summary>🥛 Milk & Dairy</summary>
-- Risks: 🦠 *Listeria*, *E. coli*, *Salmonella*  
+- Risks: 🦠 *Listeria*, *E. coli*, *Salmonella*
+   
 - Advice: Prefer pasteurized, consume immediately  
 </details>
 
 <details>
 <summary>🌾 Grains & Flour</summary>
 - Risks: 🦠 *E. coli*, ⚠️ mold spores  
+   
 - Advice: Store dry/cool, cook or bake before eating  
 </details>
 
 <details>
 <summary>💧 Tap Water & Ice</summary>
 - Risks: 🦠 *Cryptosporidium*, *Giardia*, rare amoebas 🧠 *Naegleria fowleri*  
+   
 - Advice: Boil/filter, avoid nasal exposure  
 </details>
 
 <details>
 <summary>🌊 Rivers & Lakes</summary>
 - Risks: 🦠 Bacteria, parasites, amoebas, ⚠️ chemical runoff  
+   
 - Advice: Avoid swallowing water, rinse immediately, prefer monitored swimming areas  
 </details>
 
 <details>
 <summary>🪴 Soil & Garden</summary>
 - Risks: 🦠 *Toxoplasma*, hookworms  
+   
 - Advice: Wash hands, wear gloves, avoid hand-to-mouth contact  
 </details>
 
 <details>
 <summary>🍏 Cracked Fruits & Nuts</summary>
 - Risks: ⚠️ Mold spores, aflatoxins, bacteria  
+   
 - Advice: Prefer intact produce, inspect before eating  
 </details>
 
 <details>
 <summary>🍲 Leftovers</summary>
 - Risks: 🦠 *Bacillus cereus*, *Clostridium* (rapid bacteria growth)  
+   
 - Advice: Eat fresh, refrigerate immediately if storing, avoid reheating multiple times  
 </details>
 
 <details>
 <summary>🍲 Canned Food</summary>
-- Risks: 🦠 *Clostridium botulinum* (botulism toxin if can is damaged or improperly processed)  
-- ⚠️ Other bacteria may grow once opened and stored too long  
+- Risks: 🦠 *Clostridium botulinum* (botulism toxin if can is damaged or improperly processed) 
+   
+- ⚠️ Other bacteria may grow once opened and stored too long
+  
 - Advice:  
    
   - Inspect cans before use - avoid dents, bulges, or rust
