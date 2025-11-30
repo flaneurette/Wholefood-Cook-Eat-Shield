@@ -16,7 +16,7 @@ A fun but useful README that make you think about (food) safety
 3. **Cook if you can** 🔥🥩🍚  
    Heat kills most harmful bacteria, parasites, and viruses.  
 
-**Mnemonic Visual:** 🟢 🍎 → 🔥 → 😋  
+**Mnemonic Visual:** 🍎 → 🔥 → 😋  
 
 ---
 
