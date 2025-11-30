@@ -7,13 +7,13 @@ A fun but useful README that make you think about (food) safety
 
 ## 🌿 The Three Rules
 
-1. **Wholefoods** 🥝🥜🍎  
+1. **Wholefoods**   
    Keep skins, peels, shells, and natural barriers intact until the moment you eat.  
 
-2. **Eat immediately** ⏱️🍴  
+2. **Eat immediately** 
    Avoid leftovers or pre-prepared foods that sit at room temperature.  
 
-3. **Cook if you can** 🔥🥩🍚  
+3. **Cook if you can** 
    Heat kills most harmful bacteria, parasites, and viruses.  
 
 **Mnemonic Visual:** 🍎 → 🔥 → 😋  
@@ -204,19 +204,19 @@ Click on the arrow to expand advice and risks.
 Some foods carry higher risks for people with **weaker immune systems**, including **infants under 1 year** and **elderly adults**. Follow these guidelines:
 
 ### High-Risk Foods for Infants
-- 🍯 **Honey** – can contain spores that infants cannot safely process  
-- 🌽 **Corn syrup** – same reason as honey  
+- 🍯 **Honey** - can contain spores that infants cannot safely process  
+- 🌽 **Corn syrup** - same reason as honey  
 - 🥚 **Raw or undercooked eggs**  
 - 🥛 **Raw milk or soft cheeses made from raw milk**  
 - 🧀 **Soft Cheeses** - like brie!
 - 🌱 **Raw Sprouts**
     
 ### High-Risk Foods for Elderly
-- 🥩 **Undercooked meats** – risk of *Listeria*, *Salmonella*  
-- 🍲 **Leftovers not eaten immediately** – bacteria multiply quickly  
-- 🥬 **Leafy greens and pre-cut vegetables** – can harbor *E. coli* or *Listeria*  
-- 🍚 **Cooked rice stored too long** – *Bacillus cereus* spores  
-- 🍲 **Canned food** – avoid dented, bulging, or damaged cans  
+- 🥩 **Undercooked meats** - risk of *Listeria*, *Salmonella*  
+- 🍲 **Leftovers not eaten immediately** - bacteria multiply quickly  
+- 🥬 **Leafy greens and pre-cut vegetables** - can harbor *E. coli* or *Listeria*  
+- 🍚 **Cooked rice stored too long** - *Bacillus cereus* spores  
+- 🍲 **Canned food** - avoid dented, bulging, or damaged cans  
 - 🧀 **Soft Cheeses** - like brie!
 - 🌱 **Raw Sprouts**
 
