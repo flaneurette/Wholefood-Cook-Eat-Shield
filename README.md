@@ -7,13 +7,16 @@ A fun but useful README that make you think about (food) safety
 
 ## 🌿 The Three Rules
 
-1. **Wholefoods**   
+1. **Wholefoods**
+   
    Keep skins, peels, shells, and natural barriers intact until the moment you eat.  
 
-2. **Eat immediately** 
+3. **Eat immediately**
+   
    Avoid leftovers or pre-prepared foods that sit at room temperature.  
 
-3. **Cook if you can** 
+4. **Cook if you can**
+   
    Heat kills most harmful bacteria, parasites, and viruses.  
 
 **Mnemonic Visual:** 🍎 → 🔥 → 😋  
