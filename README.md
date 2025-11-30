@@ -122,6 +122,15 @@ Click on the arrow to expand advice and risks.
 - Advice: Eat fresh, refrigerate immediately if storing, avoid reheating multiple times  
 </details>
 
+<details>
+<summary>🍲 Canned Food</summary>
+- Risks: 🦠 *Clostridium botulinum* (botulism toxin if can is damaged or improperly processed)  
+- ⚠️ Other bacteria may grow once opened and stored too long  
+- Advice:  
+  - Inspect cans before use — avoid dents, bulges, or rust  
+  - Eat immediately after opening  
+  - Avoid reheating multiple times  
+</details>
 ---
 
 ### ✅ Summary
