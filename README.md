@@ -2,6 +2,7 @@
 
 A simple, effective mantra to reduce hidden microbial and toxin risks in everyday life.  
 A fun but useful README that make you think about (food) safety
+
 ---
 
 ## 🌿 The Three Rules
