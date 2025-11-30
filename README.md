@@ -161,6 +161,19 @@ Click on the arrow to expand advice and risks.
 </details>
 
 <details>
+<summary>🌱 Raw Sprouts</summary>
+- Risks: 🦠 *E. coli*, *Salmonella*, *Listeria* 
+   
+- Who is at higher risk: 👶 Infants, 🧓 Elderly adults, and anyone with weakened immunity
+   
+- Advice:
+  
+  - Cook sprouts thoroughly before eating  
+  - Avoid raw sprouts for high-risk groups  
+  - Keep refrigerated and eat quickly after purchase
+</details>
+
+<details>
 <summary>🍲 Leftovers</summary>
 - Risks: 
    🦠 Bacillus cereus, Clostridium (rapid bacteria growth)  
@@ -185,6 +198,33 @@ Click on the arrow to expand advice and risks.
     
 </details>
 ---
+
+## 👶🧓 Special Considerations for Infants & Elderly
+
+Some foods carry higher risks for people with **weaker immune systems**, including **infants under 1 year** and **elderly adults**. Follow these guidelines:
+
+### High-Risk Foods for Infants
+- 🍯 **Honey** – can contain spores that infants cannot safely process  
+- 🌽 **Corn syrup** – same reason as honey  
+- 🥚 **Raw or undercooked eggs**  
+- 🥛 **Raw milk or soft cheeses made from raw milk**  
+- 🧀 **Soft Cheeses** - like brie!
+- 🌱 **Raw Sprouts**
+    
+### High-Risk Foods for Elderly
+- 🥩 **Undercooked meats** – risk of *Listeria*, *Salmonella*  
+- 🍲 **Leftovers not eaten immediately** – bacteria multiply quickly  
+- 🥬 **Leafy greens and pre-cut vegetables** – can harbor *E. coli* or *Listeria*  
+- 🍚 **Cooked rice stored too long** – *Bacillus cereus* spores  
+- 🍲 **Canned food** – avoid dented, bulging, or damaged cans  
+- 🧀 **Soft Cheeses** - like brie!
+- 🌱 **Raw Sprouts**
+
+### General Advice
+- Follow the **Wholefood → Cook → Eat immediately** mantra  
+- Wash hands, wash produce, boil/filter water if unsure  
+- Store food properly (cool, dry, airtight)  
+
 
 ### ✅ Summary
 - **Whole → Cook → Eat immediately** covers most microbial and toxin risks.  
