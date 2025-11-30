@@ -45,9 +45,12 @@ Click on the arrow to expand advice and risks.
 </details>
 
 <details>
-<summary>💧 Bottled water </summary>
-- Risks: 
-   nano-plastic particles (can cause severe disease over time)
+<summary>💧 Bottled Water</summary>
+   
+- Risks: ⚠️ Possible nano-plastic particles (long-term exposure effects still under study)
+  
+- Advice: Prefer filtered or boiled water if concerned, avoid long-term storage of bottled water in heat
+  
 </details>
 
 <details>
@@ -133,11 +136,20 @@ Click on the arrow to expand advice and risks.
 </details>
 
 <details>
-<summary>🐟 Fish & Seafood</summary>
+<summary>🐟🦀 Fish & Seafood</summary>
 - Risks: 
-   🦠 Vibrio, parasites  
    
-- Advice: Cook fresh, avoid raw unless safe source  
+  🦠 Vibrio bacteria, parasites, Listeria (especially in raw, smoked, or undercooked seafood) 
+   
+  ⚠️ Shellfish like crabs, oysters, clams, and mussels can concentrate bacteria and toxins  
+
+- Who is at higher risk: 🧓 Elderly, immunocompromised individuals, infants  
+
+- Advice:
+  - Cook seafood thoroughly before eating  
+  - Avoid raw shellfish and raw fish if you are high-risk  
+  - Keep refrigerated and eat quickly after purchase  
+  - Be extra cautious with shellfish from unmonitored waters
 </details>
 
 <details>
