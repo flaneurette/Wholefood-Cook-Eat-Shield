@@ -200,6 +200,31 @@ Click on the arrow to expand advice and risks.
   - Avoid reheating multiple times
     
 </details>
+<details>
+<summary>🍲 Vacuumized / Oxygen-Free Foods</summary>
+- Risks: 🦠 Clostridium botulinum (botulism toxin)  
+- Generally includes foods with low oxygen or low acidity: 
+   
+  - Vacuum-packed fish
+    
+  - Acid-free juices (e.g., carrot juice)
+    
+  - Homemade foods preserved in oil
+    
+  - Improperly canned food
+    
+  - food cooked in aluminium. (BBQ etc)
+    
+- Advice:
+  
+  - Prefer foods that are properly processed
+     
+  - Refrigerate after opening
+    
+  - Eat quickly and avoid long storage
+    
+</details>
+
 ---
 
 ## 👶🧓 Special Considerations for Infants & Elderly
