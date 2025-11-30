@@ -191,5 +191,45 @@ Click on the arrow to expand advice and risks.
 - Extra hygiene habits (hands, water, nasal care) give additional protection.  
 - This visual GitHub version is **easy to scan and expand** - new foods or risks can be added in collapsible sections.  
 
+## EXTRA: ⚠️ Understanding Botulism (Safe Overview)
+
+Botulism is a rare but serious illness caused by the **botulinum toxin**, produced by the bacteria *Clostridium botulinum*.  
+The toxin is extremely potent at the biological level, which is why even very small amounts in contaminated food can be dangerous.
+
+### 🧠 Why it’s serious
+Botulinum toxin affects the nervous system and can cause:
+- Muscle weakness
+- Difficulty breathing
+- Paralysis (in severe cases)
+
+Because of its potency, botulism is treated as a **medical emergency**.
+
+### 🍲 Where the risk comes from
+Botulism risk is almost always linked to:
+- **Bulging, damaged, or improperly processed canned foods**
+- **Home-canned foods that were not pressure-canned**
+- **Honey given to infants under 12 months**
+
+These are the main real-world sources.
+
+### 👶 Why infants are vulnerable
+Infants have an immature gut microbiome.  
+Spores from honey can grow and produce toxin in their intestines.  
+Adults and older children usually destroy the spores with stomach acid.
+
+### ✅ Practical safety tips
+- Avoid eating from **bulging, dented, or rusted cans**
+- Do not taste food if the can looks suspicious  
+- Throw away any canned food that sprays or foams when opened  
+- **Never** give honey to babies under 1 year  
+- Refrigerate canned leftovers immediately and eat quickly  
+- Follow the “Wholefood → Cook → Eat” mantra for extra safety
+
+### 🟢 Actual risk level
+Botulism is **very rare** in modern countries thanks to strict food processing standards.  
+Following normal food safety practices makes the risk **extremely low**.
+
+This section is for general awareness only — no technical details about toxin amounts or production.
+
 
 #foodsafety, #microbes, #healthyhabits
