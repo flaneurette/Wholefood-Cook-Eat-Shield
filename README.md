@@ -90,6 +90,14 @@ Click on the arrow to expand advice and risks.
 </details>
 
 <details>
+<summary>🍏 Cracked Fruits & Nuts</summary>
+- Risks: 
+   ⚠️ Mold spores, aflatoxins, bacteria  
+   
+- Advice: Prefer intact produce, inspect before eating  
+</details>
+
+<details>
 <summary>🥩 Meats</summary>
 - Risks: 
    🦠 Listeria, Salmonella, Clostridium perfringens
@@ -158,29 +166,6 @@ Click on the arrow to expand advice and risks.
 </details>
 
 <details>
-<summary>🌊 Rivers & Lakes</summary>
-- Risks: 
-   🦠 Bacteria, parasites, amoebas, 
-   ⚠️ chemical runoff  
-   
-- Advice: Avoid swallowing water, rinse immediately, prefer monitored swimming areas  
-</details>
-
-<details>
-<summary>🪴 Soil & Garden</summary>
-- Risks: 
-   🦠 Toxoplasma, hookworms  
-   
-- Advice: Wash hands, wear gloves, avoid hand-to-mouth contact  
-</details>
-
-<details>
-<summary>🍏 Cracked Fruits & Nuts</summary>
-- Risks: 
-   ⚠️ Mold spores, aflatoxins, bacteria  
-   
-- Advice: Prefer intact produce, inspect before eating  
-</details>
 
 <details>
 <summary>🍲 Leftovers</summary>
@@ -231,6 +216,21 @@ Click on the arrow to expand advice and risks.
     
 </details>
 
+<summary>🌊 Rivers & Lakes</summary>
+- Risks: 
+   🦠 Bacteria, parasites, amoebas, 
+   ⚠️ chemical runoff  
+   
+- Advice: Avoid swallowing water, rinse immediately, prefer monitored swimming areas  
+</details>
+
+<details>
+<summary>🪴 Soil & Garden</summary>
+- Risks: 
+   🦠 Toxoplasma, hookworms  
+   
+- Advice: Wash hands, wear gloves, avoid hand-to-mouth contact  
+</details>
 ---
 
 ### 🍖 Food Cooked in Aluminum
