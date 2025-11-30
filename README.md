@@ -82,7 +82,7 @@ Click on the arrow to expand advice and risks.
 </details>
 
 <details>
-<summary>🍯 Honey</summary>
+<summary>🍯 Honey & Corn syrup</summary>
 - Risks: 🦠 Clostridium botulinum spores (especially dangerous for infants under 1 year) 
    
 - Advice:  
