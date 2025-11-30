@@ -128,3 +128,6 @@ Click on the arrow to expand advice and risks.
 - **Whole → Cook → Eat immediately** covers most microbial and toxin risks.  
 - Extra hygiene habits (hands, water, nasal care) give additional protection.  
 - This visual GitHub version is **easy to scan and expand** - new foods or risks can be added in collapsible sections.  
+
+
+#foodsafety, #microbes, #healthyhabits
