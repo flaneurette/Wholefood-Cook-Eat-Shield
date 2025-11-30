@@ -227,6 +227,14 @@ Click on the arrow to expand advice and risks.
 
 ---
 
+### 🍖 Food Cooked in Aluminum
+- Risks: ⚠️ Potential aluminum leaching, especially with acidic foods (tomato, citrus, vinegar)  
+- Who is at higher risk: 🧓 Elderly adults, people with kidney issues  
+- Advice:  
+  - Avoid prolonged cooking of acidic foods in aluminum foil or pans  
+  - Use alternatives like stainless steel, cast iron, or glass for cooking acidic dishes  
+  - Limit direct contact of highly acidic marinades with aluminum
+    
 ## 👶🧓 Special Considerations for Infants & Elderly
 
 Some foods carry higher risks for people with **weaker immune systems**, including **infants under 1 year** and **elderly adults**. Follow these guidelines:
