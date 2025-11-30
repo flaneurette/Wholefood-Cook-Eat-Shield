@@ -82,6 +82,18 @@ Click on the arrow to expand advice and risks.
 </details>
 
 <details>
+<summary>🍯 Honey</summary>
+- Risks: 🦠 Clostridium botulinum spores (especially dangerous for infants under 1 year) 
+   
+- Advice:  
+  - Do **not** give honey to babies under 12 months
+   
+  - For adults and older children, the risk is minimal
+    
+  - Store in a cool, dry place  
+</details>
+
+<details>
 <summary>🐟 Fish & Seafood</summary>
 - Risks: 
    🦠 Vibrio, parasites  
