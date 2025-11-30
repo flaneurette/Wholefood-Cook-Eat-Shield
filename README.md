@@ -127,9 +127,13 @@ Click on the arrow to expand advice and risks.
 - Risks: 🦠 *Clostridium botulinum* (botulism toxin if can is damaged or improperly processed)  
 - ⚠️ Other bacteria may grow once opened and stored too long  
 - Advice:  
-  - Inspect cans before use — avoid dents, bulges, or rust  
-  - Eat immediately after opening  
-  - Avoid reheating multiple times  
+   
+  - Inspect cans before use - avoid dents, bulges, or rust
+    
+  - Eat immediately after opening
+    
+  - Avoid reheating multiple times
+    
 </details>
 ---
 
