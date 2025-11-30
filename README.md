@@ -57,6 +57,19 @@ Click on the arrow to expand advice and risks.
 </details>
 
 <details>
+<summary>🌱 Raw Sprouts</summary>
+- Risks: 🦠 *E. coli*, *Salmonella*, *Listeria* 
+   
+- Who is at higher risk: 👶 Infants, 🧓 Elderly adults, and anyone with weakened immunity
+   
+- Advice:
+  
+  - Cook sprouts thoroughly before eating  
+  - Avoid raw sprouts for high-risk groups  
+  - Keep refrigerated and eat quickly after purchase
+</details>
+
+<details>
 <summary>🍅 Tomatoes & Sauces</summary>
 - Risks: 
    🦠 Surface bacteria, spores in stored sauce
@@ -158,19 +171,6 @@ Click on the arrow to expand advice and risks.
    ⚠️ Mold spores, aflatoxins, bacteria  
    
 - Advice: Prefer intact produce, inspect before eating  
-</details>
-
-<details>
-<summary>🌱 Raw Sprouts</summary>
-- Risks: 🦠 *E. coli*, *Salmonella*, *Listeria* 
-   
-- Who is at higher risk: 👶 Infants, 🧓 Elderly adults, and anyone with weakened immunity
-   
-- Advice:
-  
-  - Cook sprouts thoroughly before eating  
-  - Avoid raw sprouts for high-risk groups  
-  - Keep refrigerated and eat quickly after purchase
 </details>
 
 <details>
