@@ -152,6 +152,12 @@ Click on the arrow to expand advice and risks.
 </details>
 
 <details>
+<summary>💧 Bottled water </summary>
+- Risks: 
+   nano-plastic particles (can cause severe disease over time)
+</details>
+
+<details>
 <summary>🌊 Rivers & Lakes</summary>
 - Risks: 
    🦠 Bacteria, parasites, amoebas, 
