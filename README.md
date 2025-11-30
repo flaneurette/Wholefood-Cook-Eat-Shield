@@ -36,6 +36,21 @@ A fun but useful README that make you think about (food) safety
 Click on the arrow to expand advice and risks.
 
 <details>
+<summary>💧 Tap Water & Ice</summary>
+- Risks: 
+   🦠 Cryptosporidium, Giardia, rare amoebas 
+   🧠 Naegleria fowleri 
+   
+- Advice: Boil/filter, avoid nasal exposure  
+</details>
+
+<details>
+<summary>💧 Bottled water </summary>
+- Risks: 
+   nano-plastic particles (can cause severe disease over time)
+</details>
+
+<details>
 <summary>🍚 Rice</summary>
 - Risks: 🦠 *Bacillus cereus* (spore-forming bacteria survives cooking)  
    
@@ -151,23 +166,6 @@ Click on the arrow to expand advice and risks.
 </details>
 
 <details>
-<summary>💧 Tap Water & Ice</summary>
-- Risks: 
-   🦠 Cryptosporidium, Giardia, rare amoebas 
-   🧠 Naegleria fowleri 
-   
-- Advice: Boil/filter, avoid nasal exposure  
-</details>
-
-<details>
-<summary>💧 Bottled water </summary>
-- Risks: 
-   nano-plastic particles (can cause severe disease over time)
-</details>
-
-<details>
-
-<details>
 <summary>🍲 Leftovers</summary>
 - Risks: 
    🦠 Bacillus cereus, Clostridium (rapid bacteria growth)  
@@ -191,6 +189,7 @@ Click on the arrow to expand advice and risks.
   - Avoid reheating multiple times
     
 </details>
+
 <details>
 <summary>🍲 Vacuumized / Oxygen-Free Foods</summary>
 - Risks: 🦠 Clostridium botulinum (botulism toxin)  
@@ -216,6 +215,7 @@ Click on the arrow to expand advice and risks.
     
 </details>
 
+<details>
 <summary>🌊 Rivers & Lakes</summary>
 - Risks: 
    🦠 Bacteria, parasites, amoebas, 
